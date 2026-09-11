@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8087360,
       "digest": null,
-      "download_count": 595,
+      "download_count": 596,
       "created_at": "2019-09-18T15:54:06Z",
       "updated_at": "2019-09-18T15:54:07Z",
       "browser_download_url": "https://github.com/sachaos/tcpterm/releases/download/v0.0.2/tcpterm_linux_amd64"
